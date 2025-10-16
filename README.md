@@ -41,10 +41,10 @@ I enjoy solving real-world problems through design, logic, and creativity.
   <a href="https://github.com/najmussakib" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" width="40" />
   </a>
-  <a href="https://linkedin.com/in/your-linkedin-username" target="_blank">
+  <a href="https://www.linkedin.com/in/s-m-najmus-sakib-256472248/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
   </a>
-  <a href="mailto:yourname@email.com" target="_blank">
+  <a href="mailto:najmussakib2142@gmail.com" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" alt="Email" />
   </a>
 </p>
