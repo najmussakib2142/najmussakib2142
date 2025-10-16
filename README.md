@@ -49,7 +49,7 @@ I enjoy solving real-world problems through design, logic, and creativity.
   </a>
 </p>
 
-📱 **Phone:** +8801XXXXXXXXX  
+📱 **Phone:** +8801736007474
 
 ---
 
@@ -67,18 +67,6 @@ I enjoy solving real-world problems through design, logic, and creativity.
 
 ### ✨ Fun Fact
 > “Great web design is about more than how it looks — it’s how it feels when you use it.”  
-
----
-
-### 🧾 Instructions to Add
-1. Go to [https://github.com/new](https://github.com/new)  
-2. Name the repository exactly as your username → **`najmussakib`**  
-3. Check ✅ **“Add a README file”**  
-4. Paste this entire code into the `README.md` file  
-5. Replace:
-   - `your-linkedin-username` → your LinkedIn username  
-   - `yourname@email.com` → your actual email  
-   - `+8801XXXXXXXXX` → your real BD phone number  
 
 ---
 
