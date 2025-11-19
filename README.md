@@ -56,7 +56,7 @@ I enjoy solving real-world problems through design, logic, and creativity.
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=najmussakib&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=najmussakib&theme=tokyonight" alt="GitHub Streak" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=najmussakib&theme=tokyonight" alt="GitHub Streak" height="150"/>
 </p>
 
 <p align="center">
