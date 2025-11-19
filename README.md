@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-<img src="https://i.ibb.co.com/d4BhDCJ0/Chat-GPT-Image-Oct-17-2025-04-13-08-AM.png" alt="Najmus Sakib Banner" width="100%"/>
+<img src="https://i.ibb.co.com/N2NrYNFy/Chat-GPT-Image-Oct-23-2025-02-31-46-AM.jpg" alt="Najmus Sakib Banner" width="100%"/>
 
 # 👋 Hi, I'm **Najmus Sakib**
 
