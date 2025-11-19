@@ -55,12 +55,16 @@ I enjoy solving real-world problems through design, logic, and creativity.
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=najmussakib&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150"/>
-  <img src="https://streak-stats.demolab.com?user=najmussakib&theme=tokyonight" alt="GitHub Streak" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=najmussakib2142&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150"/>
+  <img 
+  src="https://github-readme-streak-stats-plum-xi.vercel.app?user=najmussakib2142&theme=tokyonight" 
+  alt="GitHub Streak" 
+  height="150"
+/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=najmussakib&layout=compact&theme=tokyonight" alt="Top Languages" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=najmussakib2142&layout=compact&theme=tokyonight" alt="Top Languages" height="150"/>
 </p>
 
 ---
