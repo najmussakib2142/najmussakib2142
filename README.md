@@ -3,7 +3,7 @@
 
 # 👋 Hi, I'm **Najmus Sakib**
 
-💻 **Frontend Developer** | 🌱 Passionate Learner | 🎨 UI Enthusiast  
+💻 **Full-stack Developer** | 🌱 Passionate Learner | 🎨 UI Enthusiast  
 
 ---
 
