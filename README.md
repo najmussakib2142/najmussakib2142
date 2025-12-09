@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-<img src="[https://i.ibb.co.com/JFFbpkRQ/github-header-banner.png]" alt="Najmus Sakib Banner" width="100%"/>
+<img src="https://i.ibb.co.com/JFFbpkRQ/github-header-banner.png" alt="Najmus Sakib Banner" width="100%"/>
 
 # 👋 Hi, I'm **Najmus Sakib**
 
