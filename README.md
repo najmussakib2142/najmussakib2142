@@ -8,7 +8,7 @@
 ---
 
 ## 🧍‍♂️ About Me
-I’m a passionate **frontend developer** from Bangladesh who loves creating clean, interactive, and responsive user interfaces.  
+I’m a passionate **developer** from Bangladesh who loves creating clean, interactive, and responsive user interfaces.  
 Currently, I’m sharpening my React and Firebase skills while exploring the modern web ecosystem.  
 I enjoy solving real-world problems through design, logic, and creativity.  
 
