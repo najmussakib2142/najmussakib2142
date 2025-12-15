@@ -43,7 +43,7 @@ I’m actively improving my fundamentals, learning best practices, and preparing
   <a href="https://github.com/najmussakib" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" width="30" />
   </a>
-  <a href="https://www.linkedin.com/in/s-m-najmus-sakib-256472248/" target="_blank">
+  <a href="https://www.linkedin.com/in/sm-najmus-sakib/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="30" />
   </a>
   <a href="mailto:najmussakib2142@gmail.com" target="_blank">
