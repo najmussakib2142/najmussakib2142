@@ -3,7 +3,7 @@
 
 # 👋 Hi, I'm **Najmus Sakib**
 
-💻 **Frontend‑Focused Full‑Stack Developer (MERN) | 🎨 UI/UX‑Driven | 🚀 React & Next.js Enthusiast 
+💻 Frontend‑Focused Full‑Stack Developer (MERN) | 🎨 UI/UX‑Driven | 🚀 React & Next.js Enthusiast 
 
 ---
 
@@ -41,13 +41,13 @@ I’m actively improving my fundamentals, learning best practices, and preparing
 ## 🌐 Connect With Me
 <p align="left">
   <a href="https://github.com/najmussakib" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" width="40" />
+    <img src="https://skillicons.dev/icons?i=github" width="30" />
   </a>
   <a href="https://www.linkedin.com/in/s-m-najmus-sakib-256472248/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="30" />
   </a>
   <a href="mailto:najmussakib2142@gmail.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" alt="Email" />
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30" alt="Email" />
   </a>
 </p>
 
