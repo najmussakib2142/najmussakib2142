@@ -3,21 +3,23 @@
 
 # 👋 Hi, I'm **Najmus Sakib**
 
-💻 **Full-stack Developer** | 🌱 Passionate Learner | 🎨 UI Enthusiast  
+💻 **Frontend‑Focused Full‑Stack Developer (MERN) | 🎨 UI/UX‑Driven | 🚀 React & Next.js Enthusiast 
 
 ---
 
 ## 🧍‍♂️ About Me
-I’m a passionate **developer** from Bangladesh who loves creating clean, interactive, and responsive user interfaces.  
-Currently, I’m sharpening my React and Firebase skills while exploring the modern web ecosystem.  
-I enjoy solving real-world problems through design, logic, and creativity.  
+I’m a passionate developer from Bangladesh who enjoys building clean, responsive, and user‑friendly web applications.
+
+My core strength is frontend development with React and Next.js, where I focus on reusable components, performance, and polished UI using Tailwind CSS. I also work with the MERN stack to connect real products to real data.
+
+I’m actively improving my fundamentals, learning best practices, and preparing myself for professional frontend / full‑stack roles.
 
 ---
 
 ## 🔭 What I’m Currently Doing
-- 🚀 Building a **Tourism Website** project using React and Tailwind CSS  
+- 🚀 Building a **Blogging Platform** project using Next.js and Tailwind CSS  
+- 🚀 Updating a **Tourism Website** project using React and Firebase 
 - 🌐 Working on **eduCircle**, an assignment submission & evaluation platform  
-- 📦 Creating a **Parcel Delivery App** with cost calculation and React Hook Form  
 - ⚡ Exploring **Next.js** and advanced component design patterns  
 
 ---
@@ -72,7 +74,7 @@ I enjoy solving real-world problems through design, logic, and creativity.
 ---
 
 ### ✨ Fun Fact
-> “Great web design is about more than how it looks — it’s how it feels when you use it.”  
+> “I focus on building interfaces that feel simple, fast, and intuitive — because good UI is invisible when it’s done right.”  
 
 ---
 
