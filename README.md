@@ -67,9 +67,9 @@ I’m actively improving my fundamentals, learning best practices, and preparing
 
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=najmussakib2142&layout=compact&theme=tokyonight" alt="Top Languages" height="150"/>
-</p>
+</p> -->
 
 ---
 
